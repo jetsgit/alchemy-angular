@@ -1,3 +1,4 @@
+#  This file is not being used, reference only
 # Routes
 App.config ['$routeProvider', '$locationProvider', ($routeProvider, $locationProvider) ->
   $locationProvider.html5Mode(true)
